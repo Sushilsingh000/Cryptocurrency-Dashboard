@@ -1,6 +1,9 @@
+# 𝗔𝗯𝗼𝘂𝘁 𝘁𝗵𝗲 𝗗𝗮𝘁𝗮𝘀𝗲𝘁: The dataset consists of 40k rows of various cryptocurrency data, capturing information such as sales in year,high and low in year, Volume, Market Cap,Forcasting of cryptocurrency etc
+
 # Cryptocurrency-Dashboard
 The cryptocurrency dashboard created using Power BI provides a comprehensive view of real-time and historical data for various cryptocurrencies. It integrates data from multiple sources to give users insights into market trends, trading volumes, and price movements.
-# 𝗔𝗯𝗼𝘂𝘁 𝘁𝗵𝗲 𝗗𝗮𝘁𝗮𝘀𝗲𝘁: The dataset consists of 40k rows of various cryptocurrency data, capturing information such as sales in year,high and low in year, Volume, Market Cap,Forcasting Of grapgh etc
+
+
 # 𝗗𝗮𝘁𝗮 𝗣𝗿𝗲𝗽𝗮𝗿𝗮𝘁𝗶𝗼𝗻:- 
  * Corrected data types for accuracy.
  * Handled blank values and Null value .                                                                                         * Created new columns to calculate Average and get year from Date .
